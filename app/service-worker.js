@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/app/precache-manifest.57a274b491c2d3d6ab93c937c4a5e74c.js"
+  "/app/precache-manifest.5a198b4484cf4434ba9480f9f8e23221.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "salinc.rasp"});
