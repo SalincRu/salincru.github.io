@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/app/fonts/fa-solid-900.a7140145.woff"
   },
   {
-    "revision": "c6aa6e05b555cbb3fc29",
-    "url": "/app/js/app.e8ab2f00.js"
+    "revision": "7fc4a067d62535ce578b",
+    "url": "/app/js/app.aa531aca.js"
   },
   {
     "revision": "a67053f0216c554dbbc9",
@@ -124,11 +124,11 @@ self.__precacheManifest = [
     "url": "/app/fonts/materialdesignicons-webfont.f8346507.ttf"
   },
   {
-    "revision": "7d807421da6571aa9bd2f888b2eef654",
+    "revision": "a256e2600b32811f3b93bcaaa92e4751",
     "url": "/app/index.html"
   },
   {
-    "revision": "c6aa6e05b555cbb3fc29",
+    "revision": "7fc4a067d62535ce578b",
     "url": "/app/css/app.9106274e.css"
   }
 ];
